@@ -1,3 +1,4 @@
+source .config
 
 echo "UPDATE / UPGRADE"
 
